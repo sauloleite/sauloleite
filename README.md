@@ -68,15 +68,3 @@
 <p align="left">Currently, I am an AI Engineer at Compass UOL, where I work on developing and implementing artificial intelligence (AI) solutions to solve complex business problems. I use my experience in machine learning, deep learning, natural language processing, GenAI, computer vision, predictive models, and other AI technologies to create intelligent systems that can learn and make decisions independently.<br>I hold a bachelor's degree in Computer Engineering and a master's degree in Computational Intelligence from the Postgraduate Program in Electrical Engineering at UFPA.<br>Some evenings, I am a university professor teaching disciplines such as Artificial Intelligence, Data analysis and Big Data, among others.</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sauloleite/sauloleite/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sauloleite/count.svg?"  />
-</div>
-
-###
