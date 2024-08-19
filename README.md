@@ -7,6 +7,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
+  <img src="https://m.media-amazon.com/images/I/41d17Q83jSL.png" height="30" alt="aws logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
@@ -62,9 +64,8 @@
 <h3 align="left">Projects</h3>
 <img align="right" height="180" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif"  />
 <p align="left">Explore some of my AI projects running on GitHub Pages:</p>
-<ul>
-  <li><a href="https://sauloleite.github.io/" target="_blank">AI Projects on GitHub Pages</a></li>
-</ul>
+<a href="https://sauloleite.github.io/" target="_blank">AI Projects on GitHub Pages (Click here to use)</a>
+
 
 
 ###
