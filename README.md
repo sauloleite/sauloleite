@@ -9,8 +9,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -54,10 +52,20 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/b681c0af89bd0b57aceb44391c02f7f894e03f4539d0b13df55c7ec13977eb7b/68747470733a2f2f7261772e6769746875622e636f6d2f69617468756c2f69617468756c2f6d61737465722f636f6465312e676966"  />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
 <p align="left">Currently, I am an AI Engineer at Compass UOL, where I work on developing and implementing artificial intelligence (AI) solutions to solve complex business problems. I use my experience in machine learning, deep learning, natural language processing, GenAI, computer vision, predictive models, and other AI technologies to create intelligent systems that can learn and make decisions independently.<br>I hold a bachelor's degree in Computer Engineering and a master's degree in Computational Intelligence from the Postgraduate Program in Electrical Engineering at UFPA.<br>Some evenings, I am a university professor teaching disciplines such as Artificial Intelligence, Data analysis and Big Data, among others.</p>
 
 ###
+<h3 align="left">Projects</h3>
+<img align="right" height="180" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif"  />
+<p align="left">Explore some of my AI projects running on GitHub Pages:</p>
+<ul>
+  <li><a href="https://sauloleite.github.io/" target="_blank">AI Projects on GitHub Pages</a></li>
+</ul>
+
+
+###
+
