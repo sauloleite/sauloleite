@@ -1,4 +1,4 @@
-# Saulo Joel — AI Specialist @ [Banco Safra](https://www.safra.com)
+# Saulo Joel — AI Specialist @ Safra National Bank
 
 **São Paulo, Brazil · saulojoel@icloud.com · [GitHub](https://github.com/sauloleite) · [LinkedIn](https://www.linkedin.com/in/saulojoel)**
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a Computer Engineering graduate, Master's in Computational Intelligence (UFPA), and currently a Ph.D. candidate in AI (UFABC). I'm currently serving as an **AI Specialist at Banco Safra**. Previously, I spearheaded the development of **“Inteligência de Investimentos Itaú”** — the first generative AI powered investment assistant in Brazil, launched by Itaú Unibanco on June 5, 2025  [Itaú citation](https://www.itau.com.br/investimentos/inteligencia-de-investimentos) [Estadão citation](https://einvestidor.estadao.com.br/investimentos/itau-lanca-inteligencia-artificial-para-recomendar-investimentos/).
+I am a Computer Engineering graduate, Master's in Computational Intelligence (UFPA), and currently a Ph.D. candidate in AI (UFABC). I'm currently serving as an **AI Specialist at [Safra National Bank](https://www.safra.com)**. Previously, I contributed to the development of **“Inteligência de Investimentos Itaú”** — the first generative AI powered investment assistant in Brazil, launched by Itaú Unibanco on June 5, 2025 ([Itaú citation](https://www.itau.com.br/investimentos/inteligencia-de-investimentos), [Estadão citation](https://einvestidor.estadao.com.br/investimentos/itau-lanca-inteligencia-artificial-para-recomendar-investimentos/)).
 
 ---
 
